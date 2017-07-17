@@ -1,7 +1,0 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<script type="text/javascript" language="javascript">var loc=window.location.href;document.cookie="WASReqURLOidc640141999="+loc+"; path=/; secure;"</script><script type="text/javascript" language="javascript">window.location.replace("https://idaas.iam.ibm.com/idaas/oidc/endpoint/default/authorize?response_type=code&client_id=FloTKCRbMX&state=v2Q9rPm98LFg9EKueqO9&redirect_uri=https%3A%2F%2Flogin.eu-gb.bluemix.net%2Foidcclient%2Fredirect%2FFloTKCRbMX&scope=openid")</script>
-<title>Redirect To OP</title> 
-</head>
-<body></body>
-</html>
